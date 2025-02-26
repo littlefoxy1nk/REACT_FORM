@@ -30,7 +30,7 @@ The form ensures a clean, modern look with a dark theme, featuring smooth usabil
 🔗 Integrate a backend for real user authentication
 
 ## 👩🏽‍💻​ Register Now 
- Register with style and connect with yourself : [REGISTER](https://littlefoxy1nk.github.io/form/)
+ Register with style and connect with yourself : [REGISTER](https://littlefoxy1nk.github.io/REACT_FORM/)
 
 
 
